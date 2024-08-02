@@ -6,11 +6,12 @@
 - **Memory:** 16.0 GiB
 - **Processor:** Intel® Core™ i7-3840QM × 8
 - **Graphics:** Intel® HD Graphics 4000 (IVB GT2)
-- **Disk Capacity:** 1.2 TB
+- **Disk Capacity:** 1.2 TB HDD (with plans to switch to SSD)
 - **Operating System:** Ubuntu 24.04 LTS
 - **Kernel Version:** Linux 6.8.0-39-generic
 - **Windowing System:** X11
 - **GNOME Version:** 46
+- **Wi-Fi Card:** Intel Corporation Dual Band Wireless-AC 7260
 - **Graphics Driver in Use:** i915
 
 ## Objective
